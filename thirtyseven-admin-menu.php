@@ -1,4 +1,5 @@
-<?php  
+<?php
+//ADD OPTIONS TO THE MENU
     if($_POST['thirtysevenbase_hidden'] == 'Y') {  
         //Form data sent  
         $thirtysevenbase_loginlogourl = $_POST['thirtysevenbase_loginlogourl'];  
